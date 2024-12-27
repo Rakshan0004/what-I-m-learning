@@ -1,6 +1,6 @@
 # what-I-m-learning
 
-LeetCode profile - https://leetcode.com/u/rakshanch0004/
+my LeetCode profile - https://leetcode.com/u/rakshanch0004/
 
 ML & AI
 
